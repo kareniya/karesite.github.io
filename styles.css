@@ -1,0 +1,168 @@
+body{
+    background-color: #F5EFE6;
+    margin: 0;
+}
+.top-container{
+    background-color: #F9F5EB;
+    height: 400px;
+    margin-top: 0;
+}
+h1{
+    color: #495579;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    left: 580px;
+    top: 120px;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 50px;
+}
+.title{
+    color: #7B8FA1;
+    position:absolute;
+    left: 600px;
+    top: 160px;
+    font-family: 'Crimson Text', serif;
+    font-size: 28px;
+}
+.brief{
+    position: absolute;
+    right: 130px;
+    top: 120px;
+}
+.karenpic{
+    position:absolute;
+    left: 160px;
+    top: 10px;
+}
+.background1{
+    position:absolute;
+}
+.background2{
+    position:absolute;
+    right: 0px;
+}
+.background3{
+    position:absolute;
+    right: 125px;
+    top: 115px;
+}
+.footer-link1{
+    color: #6B728E;
+    position:absolute;
+    right: 225px;
+    top: 145px;
+    font-size: 20px;
+    font-family: 'Philosopher', serif;
+}
+.linkedin{
+    position:absolute;
+    right: 310px;
+    top: 140px;
+}
+.footer-link2{
+    color: #6B728E;
+    position:absolute;
+    right: 225px;
+    top: 190px;
+    font-size: 20px;
+    font-family: 'Philosopher', serif;
+}
+.youtube{
+    position:absolute;
+    right: 310px;
+    top: 185px;
+}
+.footer-link3{
+    color: #6B728E;
+    position:absolute;
+    right: 225px;
+    top: 235px;
+    font-size: 20px;
+    font-family: 'Philosopher', serif;
+}
+.website{
+    position:absolute;
+    right: 310px;
+    top: 230px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 10%;
+    border-width: 2px;
+    border-color: #7B8FA1;
+}
+.middle-container{
+    height: 400px;
+}
+h2{
+    font-family: 'Crimson Text', serif;
+    color: #6B728E;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+p{
+    font-family: 'Philosopher', serif;
+    color: #404258;
+    margin-top: 10px;
+}
+.profile{
+    width: 430px;
+    padding-top: 30px;
+    padding-left: 300px;
+}
+.karenpic2{
+    position: absolute;
+    top: 430px;
+    right: 260px;
+}
+h3{
+    color: #404258;
+    font-family: 'Philosopher', serif;
+    text-decoration: underline;
+}
+li{
+    color: #404258;
+    font-family: 'Philosopher', serif;
+}
+.skills{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.skill-row1{
+    height: 300px;
+    width: 450px;
+    padding-left: 350px;
+    padding-top: 20px;
+}
+.digitalmarketing{
+    position:absolute;
+    left: 30px;
+}
+.microsoft{
+    position:absolute;
+    right:3px;
+}
+.skill-row2{
+    height: 230px;
+    width: 450px;
+    padding-left: 200px;
+    padding-top: 60px;
+}
+.btn{
+    color: #6B728E;
+    font-family: 'Philosopher', serif;
+}
+.bottom-container{
+    background-color: #E8DFCA;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    top: 1670px;
+}
+.footer-link{
+    color: #404258;
+    font-family: 'Philosopher', serif;
+}
